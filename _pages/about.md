@@ -49,7 +49,17 @@ Mathematical Physics Equations (92.1), Modern Algebra ( 98.5)
 
 SKILLS
 =====
-##Languages
 
+Languages
+---
+Mandarin: Native  
+Gan Chinese: Native  
+English: IELTS Band 6  
 
+Coding
+---
+Python, C Language, C++, Matlab  
 
+Sports
+---
+Table tennis, Swimming, Badminton
