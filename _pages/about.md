@@ -14,7 +14,7 @@ redirect_from:
 =====
 Sept.2020 – Jun.2024  
 B.S., Wuhan University of Technology  
-Major: Information and Computing Science  
+Major: Information & Computing Science  
 GPA: 4.018
 
 
