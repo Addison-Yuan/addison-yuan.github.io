@@ -11,7 +11,7 @@ redirect_from:
 
 CV File
 ======
-[http://academicpages.github.io/files/paper2.pdf]
+[http://academicpages.github.io/files/CV_YUAN_MENGXU.pdf.pdf]
 
 Education
 ======
