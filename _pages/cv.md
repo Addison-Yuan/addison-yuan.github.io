@@ -11,5 +11,5 @@ redirect_from:
 
 File download
 ======
-[http://academicpages.github.io/files/CV_YUAN_MENGXU.pdf.pdf]
+[Download hear](http://academicpages.github.io/files/CV_YUAN_MENGXU.pdf.pdf)
 
