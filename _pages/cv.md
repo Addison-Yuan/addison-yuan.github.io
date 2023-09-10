@@ -11,5 +11,5 @@ redirect_from:
 
 File download
 ======
-[Download here](http://academicpages.github.io/files/CV_YUAN_MENGXU.pdf)
+[Download here](http://addison-yuan.github.io/files/CV_YUAN_MENGXU.pdf)
 
