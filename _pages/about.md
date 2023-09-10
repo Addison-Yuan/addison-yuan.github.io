@@ -81,4 +81,4 @@ Volunteer Service
 
 Social Practice
 ---
-**"2021 "Winter Vacation Alma Mater Trip" Enrollment Promotion Social Practice Activities,** Wuhan University of Technolog
+**"2021 "Winter Vacation Alma Mater Trip" Enrollment Promotion Social Practice Activities,** Wuhan University of Technology
