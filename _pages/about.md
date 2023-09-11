@@ -21,6 +21,7 @@ I would like to study Combinatorics, Graph Theory, Number Theory and Cryptograph
 =====
 Sept.2020 – Jun.2024  
 B.S., Wuhan University of Technology  
+U.S. News Global Ranking 342   
 Major: Information & Computing Science  
 GPA: 4.018/5
 
@@ -47,16 +48,14 @@ National Inspirational Scholarship, Wuhan University of Technology
 
 **CORE COURSES**
 =====
-* Mathematical Analysis 1 (95.33)  
-* College Physics (100)  
-* Advanced Algebra A1 (97.6)  
-* Ordinary Differential Equations (97.9)  
-* Discrete Mathematics (95.8)  
-* Real Variable Functions (94.4)   
-* Mathematical Physics Equations (92.1)  
-* Modern Algebra ( 98.5)   
-* Information Safety and Cryptography(97)
-* Numerical Solution of Differential Equations(100)
+
+| Courses | Grades | Courses | Grades |  
+|  ---  | ---  | --- | --- |
+| Mathematical Analysis 1 | 95.33 | College Physics | 100 |  
+| Advanced Algebra A1 | 97.6 | Ordinary Differential Equations | 97.9 |
+| Discrete Mathematics | 95.8 |  Real Variable Functions | 94.4 |
+| Mathematical Physics Equations | 92.1 |  Modern Algebra | 98.5 |
+| Information Safety and Cryptography | 97 | Numerical Solution of Differential Equations | 100 | 
 
 
 
