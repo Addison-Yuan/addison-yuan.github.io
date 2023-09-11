@@ -10,12 +10,19 @@ redirect_from:
 
 ---
 
+**Research Interests**
+=====
+I would like to study Combinatorics, Grapg Theory, Number Theory and Cryptograthy
+
+
+
+
 **EDUCATION BACKGROUND**
 =====
 Sept.2020 – Jun.2024  
 B.S., Wuhan University of Technology  
 Major: Information & Computing Science  
-GPA: 4.018
+GPA: 4.018/5
 
 
 
