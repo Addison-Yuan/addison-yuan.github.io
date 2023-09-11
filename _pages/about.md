@@ -12,7 +12,7 @@ redirect_from:
 
 **Research Interests**
 =====
-I would like to study Combinatorics, Grapg Theory, Number Theory and Cryptography
+I would like to study Combinatorics, Graph Theory, Number Theory and Cryptography
 
 
 
