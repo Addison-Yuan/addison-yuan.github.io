@@ -66,7 +66,7 @@ Languages
 ---
 Mandarin: Native  
 Gan Chinese: Native  
-English: IELTS Band 6  
+English: IELTS Band 6.5
 
 Coding
 ---
