@@ -23,7 +23,7 @@ Sept.2020 – Jun.2024
 B.S., Wuhan University of Technology  
 U.S. News Global Ranking 342   
 Major: Information & Computing Science  
-GPA: 4.018/5, 90.18/100
+GPA: 4.018/5; 90.18/100
 
 
 
