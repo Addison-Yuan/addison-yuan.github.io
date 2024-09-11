@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "YUAN MENGXU"
+title                    : "CV of YUAN Mengxu"
 title_separator          : "-"
-name                     : &name "YUAN MENGXU"
+name                     : &name "YUAN Mengxu"
 description              : &description "personal description"
 url                      : https://addison-yuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
