@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"  # 既然改成英语了，这里最好也改成 en-US
-title                    : "⚠️ Moved to new site: https://mengxu3.github.io/"
+title                    : "⚠️ Moved to new site: mengxu3.github.io"
 title_separator          : "-"
 name                     : &name "Yuan"
 description              : &description "This page is no longer updated. Please visit my new PhD academic profile at https://mengxu3.github.io/"
